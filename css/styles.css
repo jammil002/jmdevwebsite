@@ -10,6 +10,11 @@ h2{
   font-size: 20px;
   text-align: center;
 }
+p{
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  font-size: 18px;
+}
 .aboutMe{
   font-family: 'Press Start 2P', cursive;
   color: white;
@@ -40,14 +45,8 @@ a{
 a:hover{
   color: blue;
 }
-p{
-  font-family: 'Press Start 2P', cursive;
-  color: white;
-  font-size: 18px;
 }
 table{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  text-align: center;
 }
