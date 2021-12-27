@@ -5,7 +5,7 @@ h1{
   color: white;
 }
 h2{
-  font-family: 'Press Start 2P', cursive;
+
   color: white;
   font-size: 20px;
   text-align: center;
@@ -28,4 +28,26 @@ h2{
 }
 strong{
   color: red;
+}
+a{
+  font-family: 'Press Start 2P', cursive;
+  display: block;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  line-height: 200%;
+}
+a:hover{
+  color: blue;
+}
+p{
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  font-size: 18px;
+}
+table{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
