@@ -1,21 +1,31 @@
-body{
+body {
   background-color: black;
 }
-h1{
-  color: white;
-}
-h2{
 
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Press Start 2P', cursive;
   color: white;
   font-size: 20px;
   text-align: center;
 }
-p{
+
+.dividers {
+  font-size: 20px;
+}
+
+p {
   font-family: 'Press Start 2P', cursive;
   color: white;
-  font-size: 18px;
+  font-size: 12px;
 }
-.aboutMe{
+
+.aboutMe {
   font-family: 'Press Start 2P', cursive;
   color: white;
   font-size: 12px;
@@ -24,17 +34,20 @@ p{
   margin-right: 15%;
   line-height: 200%;
 }
-.logo{
+
+.logo {
   display: block;
   margin-top: -5%;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-strong{
+
+strong {
   color: red;
 }
-a{
+
+a {
   font-family: 'Press Start 2P', cursive;
   display: block;
   text-align: center;
@@ -42,11 +55,12 @@ a{
   text-decoration: none;
   line-height: 200%;
 }
-a:hover{
+
+a:hover {
   color: blue;
 }
-}
-table{
+
+table {
   display: block;
   text-align: center;
 }
