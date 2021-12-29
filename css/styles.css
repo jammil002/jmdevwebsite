@@ -3,13 +3,13 @@ body {
 }
 
 h1 {
-  font-family: 'Press Start 2P', cursive;
+  font-family: "Press Start 2P", cursive;
   color: white;
   text-align: center;
 }
 
 h2 {
-  font-family: 'Press Start 2P', cursive;
+  font-family: "Press Start 2P", cursive;
   color: white;
   font-size: 20px;
   text-align: center;
@@ -20,13 +20,13 @@ h2 {
 }
 
 p {
-  font-family: 'Press Start 2P', cursive;
+  font-family: "Press Start 2P", cursive;
   color: white;
   font-size: 12px;
 }
 
 .aboutMe {
-  font-family: 'Press Start 2P', cursive;
+  font-family: "Press Start 2P", cursive;
   color: white;
   font-size: 12px;
   text-align: center;
@@ -48,7 +48,7 @@ strong {
 }
 
 a {
-  font-family: 'Press Start 2P', cursive;
+  font-family: "Press Start 2P", cursive;
   display: block;
   text-align: center;
   color: white;
@@ -63,4 +63,8 @@ a:hover {
 table {
   display: block;
   text-align: center;
+}
+
+#logo {
+  font-size: 50px;
 }
