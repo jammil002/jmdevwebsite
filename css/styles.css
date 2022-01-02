@@ -68,7 +68,7 @@ a:hover {
 }
 
 #aboutTable {
-	display: block;
+  display: block;
   width: 80%;
   margin-left: auto;
   margin-right: auto;
@@ -78,4 +78,20 @@ a:hover {
 
 #logo {
   font-size: 50px;
+}
+
+h3 {
+  color: white;
+  font-family: "Press Start 2P", cursive;
+  font-size: 16px;
+  text-align: center;
+}
+
+ul {
+  margin-left: 10%;
+  font-family: "Press Start 2P", cursive;
+  color: white;
+  font-size: 11px;
+  width: 40%;
+  list-style: none;
 }
