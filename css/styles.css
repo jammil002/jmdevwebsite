@@ -95,3 +95,10 @@ ul {
   width: 40%;
   list-style: none;
 }
+
+table,
+th,
+td {
+  font-family: "Press Start 2P", cursive;
+  color: white;
+}
